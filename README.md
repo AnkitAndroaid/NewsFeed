@@ -17,7 +17,7 @@ Features
   * Clone git repo https://github.com/AnkitAndroaid/NewsFeed.git
   *	Open project through Android studio/compatible IDE
   *	In terminal run 'flutter pub get' command
-  *	In case you want to replace your_newsapi_key with your actual NewsAPI key in the file services/news_service.dart
+  *	Replace your_newsapi_key with your actual NewsAPI key in the file services/news_service.dart. **final String apiKey = '<YOUR API KEY>';**
   *	In terminal run 'flutter pub get' command
   *	In terminal run 'flutter run' command
 
